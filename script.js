@@ -1,5 +1,4 @@
 
-
 const apiKey = "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"; 
 const maxImages = 6;
 
